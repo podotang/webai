@@ -1,0 +1,68 @@
+spring - mybatis : 대구
+springboot - jpa : 서울경기권
+
+jquery - react - react native//
+=============================================
+★Controller(어떤요청을 받겠다) > service > Repositoty >  Dto ★
+> view >  a.jsp
+
+tomcat이 자동변환해줌 아래
+a.jsp > a_.java > a_.class
+============================================
+비주얼 코드 터미널열기
+: ctrl +` 
+=============================================
+localhost
+127.0.0.1
+192.168.0.2
+=>3개 다 나의 ip
+포트는 윈도우에 6만개이상있음 localhost:8080의 8080은 포트번호임
+resources폴더의 application.properties에서 포트 번호 바꿀수있음
+
+ctrl + f9 :
+=========================
+@RestController
+-> 주소르 호출하면 응답하는 클래스
+@GetMapping
+->어떤 주소를 요청하면 어떤 결과
+@Component
+->스프링은 객체를 담는 통이다
+@Autowired
+->통을 가져오는것
+@Autowired/@Component : 메모리 줄이기위해 스프링에서 사용
+
+
+
+
+shift + delet : 한줄지우기
+==============================================
+#gitbash
+
+모든 파일을 무대(스테이지)에 올리겠다
+git add.
+
+asdf 문자로 승인하겠다
+git commit -m "asdf"
+
+main 브랜치로 서버에 올리겠다
+git push origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
